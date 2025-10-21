@@ -1,0 +1,83 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h2 {
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
+  margin: 0;
+  border-radius: 0 0 8px 8px;
+}
+
+form {
+  margin: 20px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  display: inline-block;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  background: #28a745;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #218838;
+}
+
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background: #fff;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+th {
+  background: #007bff;
+  color: white;
+}
+
+a.btn {
+  text-decoration: none;
+  color: white;
+  background: #dc3545;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+
+a.btn:hover {
+  background: #c82333;
+}
+
+.subquery-section {
+  margin: 20px auto;
+  width: 80%;
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
